@@ -1,2 +1,2 @@
 # Data-Science-and-ML
-My notes of Data Science and Machine Learning
+My notes on Data Science and Machine Learning.
